@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironxdevil" alt="ironxdevil" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **IoT and Robotics**
-
-- 📫 How to reach me **ironxdevil007@gmail.com**
+- Ask me about **IoT and Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
