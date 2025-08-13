@@ -1,10 +1,8 @@
-[![MasterHead](IronxDevil/github-header-banner.png)]
+![MasterHead](assets/github-header-banner.png)
 <img align = "right" alt= "Coding" width = "400" src = "">
 <h1 align="center">Hi 👋, I'm Sharique Hussain</h1>
 <h3 align="center">Training AI, coding robots and occasionally myself</h3>
 <img align = "right" alt= "Coding" width = "400" src = "assets/coding.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironxdevil&label=Profile%20views&color=0e75b6&style=flat" alt="ironxdevil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironxdevil" alt="ironxdevil" /></a> </p>
