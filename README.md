@@ -1,4 +1,4 @@
-![MasterHead](assets/github-header-banner.png)
+![MasterHead](assets/github-header-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sharique Hussain</h1>
 <h3 align="center">Training AI, building robots, and upgrading myself</h3>
