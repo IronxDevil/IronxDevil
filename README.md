@@ -14,16 +14,16 @@
       <br>Python
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="120" height="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/>
       <br>HTML5
     </td>
     <td align="center" width="120" height="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>
       <br>CSS3
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
+      <br>JavaScript
     </td>
   </tr>
 </table>
@@ -32,38 +32,56 @@
 <table>
   <tr>
     <td align="center" width="120" height="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
-      <br>React
-    </td>
-    <td align="center" width="120" height="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="120" height="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
-      <br>PyTorch
-    </td>
-    <td align="center" width="120" height="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/>
+      <img src="assets/Tensorflow_logo.svg.png" width="60" height="60"/>
       <br>TensorFlow
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="assets/YOLO_logo.png" width="60" height="60"/>
+      <br>YOLOv8
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" height="60"/>
+      <br>OpenCV
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="assets/deepface_logo.png" width="60" height="60"/>
+      <br>DeepFace
     </td>
   </tr>
   <tr>
     <td align="center" width="120" height="120">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" height="60"/>
-      <br>OpenCV
+      <img src="assets/numpy.svg" width="60" height="60"/>
+      <br>NumPy
     </td>
     <td align="center" width="120" height="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/>
       <br>Pandas
     </td>
     <td align="center" width="120" height="120">
+      <img src="assets/matplotlib_logo.png" width="60" height="60"/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="assets/seaborn_logo.svg" width="60" height="60"/>
+      <br>Seaborn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60" height="60"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="120" height="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
       <br>Scikit-learn
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="60"/>
-      <br>Seaborn
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+      <br>React
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+      <br>Node.js
     </td>
   </tr>
 </table>
@@ -80,7 +98,7 @@
       <br>Raspberry Pi
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Espruino_logo.svg" width="60" height="60"/>
+      <img src="assets/esp32_logo.png" width="60" height="60"/>
       <br>ESP32
     </td>
   </tr>
@@ -112,7 +130,7 @@
       <br>Photoshop
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="60" height="60"/>
+      <img src="assets/framer.png" width="60" height="60"/>
       <br>Framer
     </td>
   </tr>
