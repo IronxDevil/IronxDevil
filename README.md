@@ -126,7 +126,7 @@
       <br>Figma
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="60" height="60"/>
+      <img src="assets/photoshop_logo.png" width="60" height="60"/>
       <br>Photoshop
     </td>
     <td align="center" width="120" height="120">
