@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Sharique+Hussain|;AI+%26+Robotics+Enthusiast|;Deep+Learning+%26+Computer+Vision+Explorer|;Building+Humanoid+Robots|;Always+Learning+%26+Creating|)](https://git.io/typing-svg)
+
+</div>
+
 ![MasterHead](assets/github-header-banner.jpg)
 
 ---
