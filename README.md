@@ -143,9 +143,3 @@
 </table>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariquehussain&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariquehussain&theme=radical" alt="streak" height="160"/>
-</p>
